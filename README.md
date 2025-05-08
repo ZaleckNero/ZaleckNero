@@ -1,6 +1,6 @@
 <h1 align="center">yer all am Zack</h1>
 <h3 align="center">Your usual mind justifier.</h3>
-![image](https://github.com/ZaleckNero/ZaleckNero/blob/main/Wallpaper-anime-girl-BW.png?raw=true)
+![Alt Text](main/Wallpaper-anime-girl-BW.png?raw=true)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zalecknero&label=Profile%20views&color=0e75b6&style=flat" alt="zalecknero" /> </p>
 
 - 🌱 I’m currently learning **the fuck whatever I want**
