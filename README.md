@@ -1,5 +1,5 @@
-<h1 align="center">yer all am Zack</h1>
-<h3 align="center">Your usual mind justifier.</h3>
+<h1 align="center">Who called me zack?</h1>
+<h3 align="center">⚜️⚜️⚜️⚜️⚜️⚜️⚜️⚜️⚜️⚜️.</h3>
 
 ![Anime Girl Wallpaper](https://raw.githubusercontent.com/ZaleckNero/ZaleckNero/main/Wallpaper-anime-girl-BW.png)
 
